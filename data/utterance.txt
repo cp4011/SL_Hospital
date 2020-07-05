@@ -1,0 +1,4407 @@
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose fever clinic department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose infectious diseases department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Children's Hospital
+I choose respiratory department
+the day after tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose fever clinic department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose infectious diseases department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I am not feeling very well, Could you make an appointment with the hospital
+Is there any hospital available near Zhujiang Road
+I'd like Nanjing University Hospital
+I choose respiratory department
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am in Gulou
+I'd like Nanjing University Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases departmentof the hospital
+Is there any hospital available nearby
+I am near Zhujiang Road
+I'd like Nanjing University Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Zhong Nanshan, 84 years old, 13333333333
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Li Lanjuan, 73 years old, 15555555555
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+this afternoon please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the fever clinic department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the infectious diseases department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
+
+I want to make an appointment with the respiratory department of the hospital
+Is there any hospital available in Gulou
+I'd like Nanjing Gulou Hospital
+tomorrow please
+I am Chen Peng, 23 years old, 18888888888
